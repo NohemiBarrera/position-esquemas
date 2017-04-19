@@ -1,0 +1,23 @@
+#abuelo1 {
+	background-color: red;
+	height: 250px;
+	width: 250px;
+	position: relative;
+	left: 500px;
+}
+
+#padre1 {
+	background-color: purple;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+
+#nieto1 {
+	background-color: yellow;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+}
