@@ -21,3 +21,28 @@
 	width: 50px;
 	position: absolute;
 }
+
+#abuelo2{
+	background-color: blue;
+	height: 250px;
+	width: 250px;
+	position: relative;
+	left: 500px;
+	top: 20px;
+}
+
+#padre2{
+	background-color: green;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+
+#nieto2{
+	background-color: black;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+}
